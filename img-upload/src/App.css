@@ -1,0 +1,31 @@
+.btn {
+  margin-left: 50px;
+  margin-top: 50px;
+  width: 100px;
+  height: 40px;
+  border-radius: 30px;
+  background-color: orangered;
+  border: white;
+}
+
+.btn:hover {
+  background-color: orange;
+}
+
+.btn1:hover {
+  background-color: orangered;
+}
+
+.btn1 {
+  margin-left: 50px;
+  margin-top: 50px;
+  width: 100px;
+  height: 40px;
+  border-radius: 30px;
+  background-color: orange;
+  border: white;
+}
+
+body {
+  background-color: blueviolet;
+}
